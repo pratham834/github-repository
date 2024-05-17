@@ -13,6 +13,7 @@ package ca.sheridancollege.week1.softwarefundamentals;
  * @author dancye May 7, 2018
  * modified by pratham 
  showing you the change on github 
+ showing fetch and merge
  */
 public class Student 
 {
